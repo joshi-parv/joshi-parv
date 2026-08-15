@@ -22,7 +22,7 @@ I enjoy building applications with Java and learning how backend systems work.
 
 ## 🚀 Projects
 
-- ****Student Management System — Java + JDBC (evolved from Collections → File Handling → JDBC)**
+- **Student Management System — Java + JDBC (evolved from Collections → File Handling → JDBC)**
 - **Bank Management System — Java + JDBC**
 
 ## 📚 What I'm Working On
